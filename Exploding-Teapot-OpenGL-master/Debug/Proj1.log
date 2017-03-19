@@ -1,0 +1,19 @@
+﻿  Shape.cpp
+  main.cpp
+c:\users\administrator\downloads\exploding-teapot-opengl-master\exploding-teapot-opengl-master\main.cpp(236): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\administrator\downloads\exploding-teapot-opengl-master\exploding-teapot-opengl-master\main.cpp(236): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+  Normal.cpp
+  Mesh.cpp
+c:\users\administrator\downloads\exploding-teapot-opengl-master\exploding-teapot-opengl-master\mesh.cpp(67): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\administrator\downloads\exploding-teapot-opengl-master\exploding-teapot-opengl-master\mesh.cpp(67): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\administrator\downloads\exploding-teapot-opengl-master\exploding-teapot-opengl-master\mesh.cpp(67): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\administrator\downloads\exploding-teapot-opengl-master\exploding-teapot-opengl-master\mesh.cpp(69): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\administrator\downloads\exploding-teapot-opengl-master\exploding-teapot-opengl-master\mesh.cpp(69): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\administrator\downloads\exploding-teapot-opengl-master\exploding-teapot-opengl-master\mesh.cpp(69): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\administrator\downloads\exploding-teapot-opengl-master\exploding-teapot-opengl-master\mesh.cpp(71): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\administrator\downloads\exploding-teapot-opengl-master\exploding-teapot-opengl-master\mesh.cpp(71): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\administrator\downloads\exploding-teapot-opengl-master\exploding-teapot-opengl-master\mesh.cpp(71): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+  CameraView.cpp
+  Camera.cpp
+  Generating Code...
+  Proj1.vcxproj -> C:\Users\Administrator\Downloads\Exploding-Teapot-OpenGL-master\Exploding-Teapot-OpenGL-master\Debug\Exploding-Teapot.exe
